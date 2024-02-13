@@ -16,6 +16,5 @@ This QR is a self-reference to this very same GitHub profile.
 It is important to instals ```qrcode``` and ```pillow```
 
 ## Acknowledgements
-
-[Codédex]: <https://www.codedex.io/projects/generate-a-qr-code-with-python>
 [qrcode library] <https://pypi.org/project/qrcode/> 
+[Codédex] <https://www.codedex.io/projects/generate-a-qr-code-with-python>
